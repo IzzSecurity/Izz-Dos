@@ -1,6 +1,6 @@
-WARNING USE FOR EDUCATIONAL PURPOSE ONLY !!!!
+                WARNING USE FOR EDUCATIONAL PURPOSE ONLY !!!!
 
 
 ------------------------HOW TO USE THIS SCRIPT------------------------------------
 
-[GitHub](http://github.com)
+# git clone https://github.com/iizz.git

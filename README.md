@@ -6,7 +6,7 @@ __WARNING USE AT YOUR RISK!!!__
 
 
 
-* WHAT IS DDoS ATTACK ?
+# WHAT IS DDoS ATTACK?
 
 
 
@@ -37,7 +37,7 @@ __Distributed denial of service (DDoS) attacks are a subclass of denial of servi
 
 
 
-
+# INSTALLATION
 
 
 

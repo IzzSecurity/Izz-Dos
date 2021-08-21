@@ -1,6 +1,6 @@
 *FOR TERMUX
 
-apt update
+                           apt update !!!
 
 
 

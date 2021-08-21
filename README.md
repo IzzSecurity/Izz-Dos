@@ -1,5 +1,7 @@
 *FOR TERMUX
 
+apt update
+
 
 
 

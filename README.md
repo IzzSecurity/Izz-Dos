@@ -1,4 +1,4 @@
-*__FOR TERMUX__    
+*__FOR TERMUX__*   
     
       pkg update
       pkg upgrade
@@ -7,7 +7,7 @@
       pkg install figlet
       git clone https://github.com/Izzzfsociety/Izzfsociety
 
-*__FOR LINUX__
+*__FOR LINUX__*
 
       apt update && apt upgrade
       apt install python

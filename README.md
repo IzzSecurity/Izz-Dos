@@ -1,4 +1,4 @@
-__USE FOR EDUCATIONAL PURPOSE ONLY__
+__USE FOR EDUCATIONAL PURPOSE ONLY⚠️__
 
 
 __WARNING USE AT YOUR RISK!!!__
@@ -33,7 +33,7 @@ __Distributed denial of service (DDoS) attacks are a subclass of denial of servi
 
 
 
-* __THIS TOOL USING PYTHON 2 MAKE SURE YOU HAVE IT INSTALLED__
+* *__THIS TOOL USING PYTHON 2 MAKE SURE YOU HAVE IT INSTALLED__*
 
 
 
@@ -51,7 +51,7 @@ __Distributed denial of service (DDoS) attacks are a subclass of denial of servi
       git clone https://github.com/Izzzfsociety/Izzwhiteh4t
       cd Izzwhiteh4t
       python2 izzfsociety.py
-            
+      port 80      
       
 
 *__LINUX INSTALL__*
@@ -63,6 +63,7 @@ __Distributed denial of service (DDoS) attacks are a subclass of denial of servi
       git clone https://github.com/Izzzfsociety/Izzwhiteh4t
       cd Izzwhiteh4t
       python2 izzfsociety.py
+      port 80
 
 
               

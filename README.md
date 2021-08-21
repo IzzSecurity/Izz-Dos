@@ -1,4 +1,4 @@
-**FOR TERMUX
+                    __FOR TERMUX__
 
                      pkg update
                      pkg upgrade

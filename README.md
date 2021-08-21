@@ -1,7 +1,9 @@
-*FOR TERMUX
+**FOR TERMUX
 
-    apt update
-    apt upgrade
+ pkg update
+ pkg upgrade
+ pkg install figlet
+ git clone https://github.com/Izzfsociety/Izzfsociety
 
 
 

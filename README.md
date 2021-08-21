@@ -1,2 +1,8 @@
 # Izzfsociety
-USE FOR EDUCATIONAL PURPOSE ONLY
+WARNING USE FOR EDUCATIONAL PURPOSE ONLY !!!!
+
+
+------------------------HOW TO USE THIS SCRIPT------------------------------------
+
+*FOR TERMUX
+[CodeTime]

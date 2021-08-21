@@ -37,7 +37,7 @@ print
 print "                            EXPECT US"
 print 
 time.sleep(5)
-print "                       NO SYSTEM IS SAFE"
+print "                         NO SYSTEM IS SAFE"
 print
 time.sleep(5)
 print 

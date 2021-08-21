@@ -1,6 +1,7 @@
-                WARNING USE FOR EDUCATIONAL PURPOSE ONLY
+*FOR TERMUX
 
 
-------------------------HOW TO USE THIS SCRIPT------------------------------------
 
-!!! git clone https://github.com/hsjhsjd.git
+
+
+              

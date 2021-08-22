@@ -25,8 +25,8 @@ print
 print "               Author   : IzzFsociety"
 print "               Github   : https://github.com/izzzfsociety"
 print "              Instgram  : https://instagram/izzfsociety"
-os.system("clear")
-os.system(" figlet ANONYMOUS")
+print "
+print "
 time.sleep(5) 
 print
 print "                   WE ARE ANONYMOUS,WE ARE LEGION"

@@ -25,8 +25,6 @@ print
 print "               Author   : IzzFsociety"
 print "               Github   : https://github.com/izzzfsociety"
 print "              Instgram  : https://instagram/izzfsociety"
-print "
-print "
 time.sleep(5) 
 print
 print "                   WE ARE ANONYMOUS,WE ARE LEGION"
@@ -50,15 +48,25 @@ port = input  (" Your  Port     : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
-print "[                    ] 0% "
+print 
+print
+print
+print
+print
+print
+print
+
+time.sleep(3)
+
+print "[====                         ] 10% "
 time.sleep(5)
-print "[=====               ] 25%"
+print "[========                     ] 25%"
 time.sleep(5)
-print "[==========          ] 50%"
+print "[=============                ] 50%"
 time.sleep(5)
-print "[===============     ] 75%"
+print "[=====================        ] 75%"
 time.sleep(5)
-print "[====================] 100%"
+print "[=============================] 100%"
 time.sleep(3)
 sent = 0
 while True:

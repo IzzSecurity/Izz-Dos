@@ -67,7 +67,7 @@ __Distributed denial of service (DDoS) attacks are a subclass of denial of servi
 
 
 
-# SUPPORT
+# DONATE
 
 <a href="https://www.buymeacoffee.com/izzfsociety">
          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZIOJXQ4q7IvuAdKoV68v96pYZ0KAq4RjNQ&usqp=CAU"

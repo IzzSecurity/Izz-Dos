@@ -14,7 +14,8 @@ __WARNING USE AT YOUR RISK!!!__
 __Distributed denial of service (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.__
 
 
-<img src="https://www.thesslstore.com/blog/wp-content/uploads/2019/10/what-is-ddos-botmaster.png">
+![izz](https://user-images.githubusercontent.com/89311774/130359333-d988b797-3f07-4eb7-a888-da25dbb1e621.png)
+
 
 
 

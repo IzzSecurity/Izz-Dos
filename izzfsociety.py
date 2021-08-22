@@ -18,23 +18,23 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system(" figlet DDos By Izz")
+os.system(" figlet DDoS By Izz")
 
 time.sleep(5)
-print
-print "          Author   : IzzFsociety"
-print "          Github   : https://github.com/izzzfsociety"
-print "          Instgram : https://instagram/izzfsociety"
+print          
+print "               Author   : IzzFsociety"
+print "               Github   : https://github.com/izzzfsociety"
+print "              Instgram  : https://instagram/izzfsociety"
 print
 time.sleep(5) 
 print
-print "                  WE ARE ANONYMOUS,WE ARE LEGION"
+print "                   WE ARE ANONYMOUS,WE ARE LEGION"
 time.sleep(5)
 print
 print "                 WE DO NOT FORGIVE,WE DO NOT FORGET"
 time.sleep(5)
 print
-print "                            EXPECT US"
+print "                             EXPECT US"
 print 
 time.sleep(5)
 print "                         NO SYSTEM IS SAFE"
@@ -67,3 +67,4 @@ while True:
      print "Sent %s packet to %s throught Port"%(sent,ip)
      if port == 65534:
        port = 1
+ 

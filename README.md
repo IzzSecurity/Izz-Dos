@@ -51,8 +51,7 @@ __Distributed denial of service (DDoS) attacks are a subclass of denial of servi
       pkg install figlet
       git clone https://github.com/Izzzfsociety/Izzwhiteh4t
       cd Izzwhiteh4t
-      python2 izzfsociety.py
-      port 80      
+      python2 Izz-Dos.py
       
 
 *__LINUX INSTALL__*
@@ -63,8 +62,7 @@ __Distributed denial of service (DDoS) attacks are a subclass of denial of servi
       apt install figlet
       git clone https://github.com/Izzzfsociety/Izzwhiteh4t
       cd Izzwhiteh4t
-      python2 izzfsociety.py
-      port 80
+      python2 Izz-Dos.py
 
 
 
